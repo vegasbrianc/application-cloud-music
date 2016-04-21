@@ -1,6 +1,6 @@
 ---
 applications:
-- name: brian-spring-music
+- name: brian-application-cloud-music
   memory: 512M
   instances: 1
   random-route: true
